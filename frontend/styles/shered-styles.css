@@ -1,0 +1,18 @@
+.list-view .content{
+    display: flex;
+}
+
+.list-view .rejestrGruntow-grid{
+    flex: 2;
+}
+
+.list-view .rejestr-form{
+    flex: 1;
+    padding: var(--lump-space-m);
+}
+
+@media all and (max-width 1100px) {
+    .list-view.editing .toolbar,
+    .list-view.editing .rejestrGruntow-grid {display: none}
+
+}

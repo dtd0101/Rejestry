@@ -1,0 +1,63 @@
+2021-06-30 08:53:31,882 DEBUG - Starting WinSW in console mode
+2021-06-30 08:53:31,934 INFO  - Installing service 'Rejestry-java-application (powered by WinSW) (Rejestry-java-application)'...
+2021-06-30 08:53:32,553 INFO  - Service 'Rejestry-java-application (powered by WinSW) (Rejestry-java-application)' was installed successfully.
+2021-06-30 09:05:42,109 DEBUG - Starting WinSW in service mode
+2021-06-30 09:05:42,154 INFO  - Starting java  -jar Rejestry-java-application.jar
+2021-06-30 09:05:42,257 INFO  - Started process 8548
+2021-06-30 09:05:42,261 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2021-06-30 09:13:28,989 INFO  - Stopping Rejestry-java-application
+2021-06-30 09:13:28,989 DEBUG - ProcessKill 8548
+2021-06-30 09:13:28,994 DEBUG - Stopping process 8548...
+2021-06-30 09:13:29,302 DEBUG - Process 8548 canceled with code 130.
+2021-06-30 09:13:29,344 INFO  - Finished Rejestry-java-application
+2021-06-30 09:18:12,957 DEBUG - Starting WinSW in service mode
+2021-06-30 09:18:12,973 INFO  - Starting java  -jar Rejestry-java-application.jar
+2021-06-30 09:18:12,986 INFO  - Started process 7484
+2021-06-30 09:18:12,987 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2021-06-30 09:25:51,928 INFO  - Stopping Rejestry-java-application
+2021-06-30 09:25:51,929 DEBUG - ProcessKill 7484
+2021-06-30 09:25:51,932 DEBUG - Stopping process 7484...
+2021-06-30 09:25:52,162 DEBUG - Process 7484 canceled with code 130.
+2021-06-30 09:25:52,166 INFO  - Finished Rejestry-java-application
+2021-06-30 10:50:33,582 DEBUG - Starting WinSW in console mode
+2021-06-30 10:50:33,596 INFO  - Uninstalling service 'Rejestry-java-application (powered by WinSW) (Rejestry-java-application)'...
+2021-06-30 10:50:33,599 INFO  - Service 'Rejestry-java-application (powered by WinSW) (Rejestry-java-application)' was uninstalled successfully.
+2021-06-30 11:00:19,670 DEBUG - Starting WinSW in console mode
+2021-06-30 11:00:19,684 INFO  - Installing service 'Rejestry-java-application (powered by WinSW) (Rejestry-java-application)'...
+2021-06-30 11:00:20,125 INFO  - Service 'Rejestry-java-application (powered by WinSW) (Rejestry-java-application)' was installed successfully.
+2021-06-30 11:00:44,852 DEBUG - Starting WinSW in service mode
+2021-06-30 11:00:44,869 INFO  - Starting java  -jar Rejestry-java-application.jar
+2021-06-30 11:00:44,883 INFO  - Started process 9460
+2021-06-30 11:00:44,884 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2021-06-30 11:48:15,985 INFO  - Stopping Rejestry-java-application
+2021-06-30 11:48:15,986 DEBUG - ProcessKill 9460
+2021-06-30 11:48:15,988 DEBUG - Stopping process 9460...
+2021-06-30 11:48:30,999 DEBUG - Process 9460 terminated.
+2021-06-30 11:48:31,005 INFO  - Finished Rejestry-java-application
+2021-06-30 11:54:50,505 DEBUG - Starting WinSW in service mode
+2021-06-30 11:54:50,522 INFO  - Starting java  -jar Rejestry-java-application.jar
+2021-06-30 11:54:50,535 INFO  - Started process 6448
+2021-06-30 11:54:50,537 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2021-06-30 12:40:16,904 INFO  - Stopping Rejestry-java-application
+2021-06-30 12:40:16,904 DEBUG - ProcessKill 6448
+2021-06-30 12:40:16,906 DEBUG - Stopping process 6448...
+2021-06-30 12:40:26,414 DEBUG - Process 6448 canceled with code 130.
+2021-06-30 12:40:26,420 INFO  - Finished Rejestry-java-application
+2021-07-01 00:20:27,582 DEBUG - Starting WinSW in service mode
+2021-07-01 00:20:27,620 INFO  - Starting java  -jar Rejestry-java-application.jar
+2021-07-01 00:20:27,652 INFO  - Started process 6852
+2021-07-01 00:20:27,655 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2021-07-01 00:40:37,550 INFO  - Stopping Rejestry-java-application
+2021-07-01 00:40:37,550 DEBUG - ProcessKill 6852
+2021-07-01 00:40:37,562 DEBUG - Stopping process 6852...
+2021-07-01 00:40:37,877 DEBUG - Process 6852 canceled with code 130.
+2021-07-01 00:40:37,944 INFO  - Finished Rejestry-java-application
+2021-07-01 00:40:57,801 DEBUG - Starting WinSW in service mode
+2021-07-01 00:40:57,817 INFO  - Starting java  -jar Rejestry-java-application.jar
+2021-07-01 00:40:57,831 INFO  - Started process 12732
+2021-07-01 00:40:57,833 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2021-07-01 00:48:40,743 INFO  - Stopping Rejestry-java-application
+2021-07-01 00:48:40,743 DEBUG - ProcessKill 12732
+2021-07-01 00:48:40,746 DEBUG - Stopping process 12732...
+2021-07-01 00:48:41,079 DEBUG - Process 12732 canceled with code 130.
+2021-07-01 00:48:41,103 INFO  - Finished Rejestry-java-application

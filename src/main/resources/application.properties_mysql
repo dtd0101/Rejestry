@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:mysql://${MYSQL_HOST:localhost}:3306/rejestrydb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+spring.datasource.username=hbstudent
+spring.datasource.password=hbstudent
+
+spring.jpa.hibernate.ddl-auto=create-drop
